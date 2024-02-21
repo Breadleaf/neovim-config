@@ -10,7 +10,15 @@ Run the following command or follow the steps [here](https://github.com/junegunn
 
 ### Installing my config files
 
-Simply git clone this repo in your `~/.config/` directory.
+NOTE: I don't use MacOS or Windows so it might be beneficial to validate before you clone.
+
+#### Linux and MacOS
+
+Clone this repo in your `~/.config/` directory.
+
+#### Windows
+
+Clone this repo in your `~/AppData/Local/` directory.
 
 ### Installing all plugins
 
