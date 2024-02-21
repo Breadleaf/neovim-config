@@ -6,7 +6,7 @@ This is my neovim config! I partially based it off of [ThePrimeagen](https://lin
 
 ### Installing vim-plug
 
-Run the following command or follow the steps [here](https://github.com/junegunn/vim-plug) to install vim-plug.
+Follow the steps [here](https://github.com/junegunn/vim-plug) to install vim-plug.
 
 ### Installing my config files
 
