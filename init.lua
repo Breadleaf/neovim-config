@@ -15,3 +15,6 @@ require("config")
 -- <leader>ps -> project search
 -- <leader>pg -> project git
 -- <leader>pf -> project find
+--
+-- <leader>yc -> Yank (To) Clip
+-- <leader>cy -> Clip (To) Yank
