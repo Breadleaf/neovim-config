@@ -45,8 +45,6 @@ Plug ( "VonHeikemen/lsp-zero.nvim", { ["branch"] = "v3.x" } )
 
 Plug ( "zoomlogo/vim-apl" )
 
-Plug ( "tpope/vim-sleuth" )
-
 Plug ( "neoclide/coc.nvim", { ["branch"] = "release" } )
 
 vim.call('plug#end')
