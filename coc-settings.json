@@ -1,0 +1,9 @@
+{
+  "languageserver": {
+    "gleam": {
+      "command": "gleam",
+      "args": ["lsp"],
+      "filetypes": ["gleam"],
+    }
+  }
+}
